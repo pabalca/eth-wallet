@@ -1,4 +1,4 @@
-# wallet ethereum smart contract
+# multi signature wallet
 A multi signature ethereum wallet that only allows to withdraw funds if the owners have previously approved the transaction.
 
 ## Deploy
