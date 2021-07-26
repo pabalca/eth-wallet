@@ -1,4 +1,4 @@
-from brownie import accounts, config, MultiSignatureWallet
+from brownie import MultiSignatureWallet
 from scripts.helpers import get_account
 
 import time
